@@ -1,6 +1,8 @@
 # odin-recipes
 A cooking recipes of Vietnames food website made in HTML.
 
+Live preview: https://guren1912.github.io/odin-recipes/
+
 This is a project for the assigment of The Odin Project: 
 
 https://www.theodinproject.com/lessons/foundations-recipes
